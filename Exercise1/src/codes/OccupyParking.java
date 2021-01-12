@@ -31,7 +31,7 @@ public class OccupyParking
                 	{
                 		occupied+=1;
                 	}
-                System.out.println(occupied);
+                
 			}
 
 	}
