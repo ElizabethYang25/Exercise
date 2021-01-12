@@ -40,7 +40,7 @@ public class WinningScore
 					System.out.println("T");
 				
 				sc.close();
-
+				
 			}
-
+		
 	}

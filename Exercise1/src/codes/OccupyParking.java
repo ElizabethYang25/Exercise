@@ -22,7 +22,7 @@ public class OccupyParking
 				int i=0;
 				
 				System.out.println("parking spaces");
-                N = sc.nextInt();
+                N = sc.nextInt(); 
                 String yesterday=sc.next();
 				String today=sc.next();
                 

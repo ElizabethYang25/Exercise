@@ -25,7 +25,7 @@ public class TimeToDecompress
                 code = sc.nextInt();
 
                 for(int i1=0; i1<code;i1++);
-                if (code.charAt(i) == 'N' && code.charAt(i+2) == 'x');
+                if (code.charAt(i) == 'N' && code.charAt(i+2) == 'x'); 
                 	{
                 		code+=1;
                 	}

@@ -42,7 +42,7 @@ public class HappyOrSad
                 else if (happy == 0 && sad == 0)
                 	System.out.println("none");
                 
-               sc.close();
+               sc.close(); 
 			}
 
 	}
